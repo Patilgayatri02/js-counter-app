@@ -16,7 +16,7 @@ and studying the logic to understand **DOM manipulation and event handling**.
 - JavaScript
 
 ## 🔗 Live Demo
-https://your-username.github.io/js-counter-app
+https://patilgayatri02.github.io/js-counter-app/
 
 ## 🌱 Note
 This project was created for learning and practice purposes.
